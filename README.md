@@ -38,6 +38,7 @@ pkg update && pkg upgrade -y
 pkg install root-repo git tsu python 
 pkg install wpa-supplicant pixiewps iw -y
 git clone https://github.com/mdrifathosain74-hash/WifuK
+ls
 cd WifuK
 chmod +x installer.sh
 bash installer.sh
