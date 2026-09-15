@@ -2,7 +2,7 @@
 # **WiFuX v2.0** 
 ### *WPS Security Auditing Tool for Android / Termux*
 
-**Created by Hayat** | [@rifat_hayat](https://instagram.com/rifat_hayat)
+**Created by hayat** | [@rifat_hayat](https://instagram.com/rifat_hayat)
 
 ---
 
@@ -10,7 +10,7 @@
 
 ## 🎯 Overview
 
-WiFuX is a WPS (Wi-Fi Protected Setup) security auditing tool built for Android devices running Termux. It automates Pixie Dust and Bruteforce attacks against WPS-enabled routers, allowing security researchers and network administrators to evaluate the strength of their own wireless infrastructure.
+WiFuX is a WPS (Wi-Fi Protected Setup) security auditing tool built for Android devices running Termux. It automates Pixie Dust and Bruteforce attacks against WPS-enabled routers, allowing security researchers to test the resilience of WPS implementations.
 
 WiFuX v2.0 is a complete rewrite of the original v1 engine, introducing:
 - 🔄 Global command system
@@ -42,3 +42,4 @@ ls
 cd GG
 chmod +x installer.sh
 bash installer.sh
+```
