@@ -37,8 +37,8 @@ WiFuX v2.0 is a complete rewrite of the original v1 engine, introducing:
 pkg update && pkg upgrade -y
 pkg install root-repo git tsu python 
 pkg install wpa-supplicant pixiewps iw -y
-git clone https://github.com/oghayat/WifuK
+git clone https://github.com/oghayat/GG
 ls
-cd WifuK
+cd GG
 chmod +x installer.sh
 bash installer.sh
