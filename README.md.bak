@@ -103,8 +103,16 @@ Run the built-in fix first:
 ```bash
 wifux fix
 ```
-fix-termux-root/main/fix.sh && chmod +x fix.sh && ./fix.sh
+
+If the issue persists, use the dedicated fix script:
+```bash
+curl -sO https://raw.githubusercontent.com/msrofficial/fix-termux-root/main/fix.sh && chmod +x fix.sh && ./fix.sh
 ```
+
+Manual solutions: [github.com/msrofficial/fix-termux-root](https://github.com/msrofficial/fix-termux-root)
+
+---
+
 **Common issues and fixes**
 
 | Problem | Fix |
